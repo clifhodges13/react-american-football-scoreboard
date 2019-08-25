@@ -19,6 +19,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 1.6rem;
+  background: url(https://www.stadiumsofprofootball.com/wp-content/uploads/2016/07/super2012950.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 code {

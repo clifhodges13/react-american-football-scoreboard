@@ -5,8 +5,8 @@
 
 .scoreboard {
   width: 58%;
-  margin: 10rem auto;
-  background-color: #0b5402;
+  margin: 2rem auto;
+  background-color: rgba(218, 165, 32, .9);
   color: white;
   border-radius: 0.5rem;
   margin-top: 10rem;
@@ -119,4 +119,5 @@
 .awayButtons__fieldGoal {
   margin: 1rem;
   border-radius: 4px;
+  width: 90%;
 }
